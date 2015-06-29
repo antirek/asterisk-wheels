@@ -1,0 +1,19 @@
+{
+  "name": "asterisk-wheels",
+  "version": "0.0.1",
+  "homepage": "https://github.com/antirek/asterisk-wheels",
+  "authors": [
+    "antirek <serge.dmitriev@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
